@@ -8,6 +8,6 @@ My main tech stack includes WordPress, HTML, CSS, and Python. My favorite tools 
 
 Right now, I'm focused on improving my Python skills and building small projects based on what I learn.
 
-**Funny Facts**
+**Funny Facts:**
 - I love drinking coffee while coding.
 - I'm a little obsessed with typing the code myself whenever I learn something 🙂.
