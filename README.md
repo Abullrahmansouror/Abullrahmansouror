@@ -1,6 +1,6 @@
 ### **Hey There 👋🏻**
 
-I'm a Software Engineering student based in Morocco who enjoys building things and learning how they work.
+I'm **Abullrahman**, a Software Engineering student based in Morocco who enjoys building things and learning how they work.
 
 Since 2022, I've been building websites with WordPress. Recently, I started my journey into software engineering, learning programming from the ground up and documenting everything I learn.
 
