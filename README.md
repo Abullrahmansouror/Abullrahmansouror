@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Abullrahman Sorour 👋
 
-<!--
-**Abullrahmansouror/Abullrahmansouror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student from Morocco who enjoys building things and learning how they work.
 
-Here are some ideas to get you started:
+For the past 4+ years I've been building websites with WordPress. Recently, I started my journey into software engineering, learning programming from the ground up and documenting everything I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm doing now
+
+* 🐍 Learning Python and sharing my progress publicly
+* 💻 Building small projects to improve my problem-solving skills
+* ☕ Drinking coffee and testing every piece of code I learn
+
+### Tools
+
+WordPress • HTML • CSS • Python (learning) • Claude Code
+
+### Reach me
+
+📧 [abullrahmansorour@gmail.com](mailto:abullrahmansorour@gmail.com)
+🌐 https://abullrahman.vercel.app
+📷 @abullrahmansouror
