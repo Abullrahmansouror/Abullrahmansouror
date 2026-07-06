@@ -1,4 +1,4 @@
-# Hi, I'm Abullrahman Sorour 👋
+# Hi, I'm Abullrahman Sorour 👋🏻
 
 I'm a Software Engineering student from Morocco who enjoys building things and learning how they work.
 
