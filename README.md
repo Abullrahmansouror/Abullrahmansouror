@@ -9,3 +9,7 @@ My main tech stack includes WordPress, HTML, CSS, and Python. My favorite tools 
 **What I'm doing now:**
 - Learning Python and sharing my progress publicly
 - Building small projects to improve my problem-solving skills
+
+**Funny Facts**
+- I love drinking coffee while coding.
+- I'm a little obsessed with typing the code myself whenever I learn something 🙂.
