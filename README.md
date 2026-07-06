@@ -6,9 +6,7 @@ Since 2022, I've been building websites with WordPress. Recently, I started my j
 
 My main tech stack includes WordPress, HTML, CSS, and Python. My favorite tools are Claude Code and Elementor Pro.
 
-**What I'm doing now:**
-- Learning Python and sharing my progress publicly
-- Building small projects to improve my problem-solving skills
+Right now, I'm focused on improving my Python skills and building small projects based on what I learn.
 
 **Funny Facts**
 - I love drinking coffee while coding.
